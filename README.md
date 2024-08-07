@@ -96,3 +96,8 @@ public static function get_instance()
 ## Conclusion 
 
 The "WPC Paying Customer Data for WP CLI" plugin is a powerful tool for managing and analyzing paying customer data within your WordPress and WooCommerce setup using WP CLI. Ensure WP CLI is properly installed and configured to utilize the full capabilities of this plugin.
+
+
+
+---
+*This README was written by OpenAI ChatGPT 4o.*
